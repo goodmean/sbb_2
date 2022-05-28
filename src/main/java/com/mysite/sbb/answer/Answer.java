@@ -1,12 +1,12 @@
-package com.mysite.sbb;
+package com.mysite.sbb.answer;
 
 
+import com.mysite.sbb.question.Question;
 import lombok.Getter;
 import lombok.Setter;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;
-import java.util.List;
 
 @Getter
 @Setter
